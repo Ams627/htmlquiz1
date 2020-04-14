@@ -27,5 +27,5 @@ add code to the stylesheet to get the following result:
 
 image::image.png[]
 
-TIP: The font size is 64 points
+Try to get the colours exactly the same as the image.
 
