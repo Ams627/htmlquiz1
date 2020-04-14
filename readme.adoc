@@ -23,7 +23,7 @@ Given the following HTML file with no stylesheet:
 </html>
 ----
 
-add code to the stylesheet to get the following result:
+add code to the style section (between `<style>` and `</style>` )to get the following result:
 
 image::image.png[]
 
