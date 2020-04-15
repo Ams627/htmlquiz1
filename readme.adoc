@@ -23,9 +23,10 @@ Given the following HTML file with no stylesheet:
 </html>
 ----
 
-add code to the style section (between `<style>` and `</style>` )to get the following result:
+add CSS to the style section (between `<style>` and `</style>` )to get the following result:
 
 image::image.png[]
 
-Try to get the colours exactly the same as the image.
+Try to get the colours exactly the same as the image. The font size should be 64 points.
 
+Have a look https://www.freecodecamp.org/news/get-started-with-css-in-5-minutes-e0804813fc3e/[here] for some hints.
